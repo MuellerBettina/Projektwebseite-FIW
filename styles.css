@@ -69,3 +69,7 @@ nav {
     background-color: #FEA82F !important;
     border: none !important;
 }
+
+.col-8{
+    width: 12.5%;
+}
