@@ -88,3 +88,7 @@ nav {
 .subheading {
     margin: 1% 0 1% 0;
 }
+
+html {
+    scroll-padding-top: 9%;
+}
