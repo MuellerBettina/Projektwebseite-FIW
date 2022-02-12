@@ -70,11 +70,18 @@ nav {
     border: none !important;
 }
 
-.col-8{
+.col-8 {
     width: 12.5%;
     height: 100%;
 }
 
-.social-media-videos{
+.social-media-videos {
     height: 100%;
+}
+
+.workshop-day-slideshow {
+    width: 70%;
+    height: 70%;
+    margin: 0 15% 0 15%;
+
 }
